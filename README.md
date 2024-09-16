@@ -1,0 +1,1 @@
+This is a test by creating a simple ransomware that encrypts and decrypts files in a desired address, it is only as a test/learning I am not responsible for the use of third parties. Have a nice day :D
